@@ -2,7 +2,7 @@
 Analytics and predictive modeling application on the health, biological, and disease data 
 
 
-### 🩺 Disease prediction
+### 🩺 Machine learning for disease prediction
 - 💊 **[Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app)**
   * Developed a model to predict prediabetes risks.
 - ❤️ **[Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App)**
