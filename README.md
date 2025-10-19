@@ -35,10 +35,8 @@ Analytics and predictive modeling application on the health, biological, and dis
 
 ### 🚀 Get in Touch!  
 
-If you're interested in collaborating on computational biology and bioinformatics projects or discussing ideas, feel free to connect with me:  
-- 📧 [Email](mailto:harishmuh@gmail.com)  
-- 🔗 [ResearchGate](https://www.researchgate.net/profile/Harish-Muhammad)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/)  
+If you're interested in collaborating on these topics or discussing project ideas, feel free to connect with me:  
+📧 [Email](mailto:harishmuh@gmail.com)  | 🔗 [ResearchGate](https://www.researchgate.net/profile/Harish-Muhammad) | 💼 [LinkedIn](https://www.linkedin.com/in/harish-muhammad-7b600b102/)  
 
 
 
