@@ -1,5 +1,5 @@
-# Machine learning for biomedical applications and healthcare analytics 
-Analytics and predictive modeling application on the health, biological, and disease data 
+# **Artificial intelligence for biomedical research and disease prediction** 
+Analytics and predictive modeling application on the health and biomedical data 
 
 
 ### 🩺 Machine learning for disease prediction
