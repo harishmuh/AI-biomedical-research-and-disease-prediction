@@ -2,6 +2,9 @@
 # **Multi-label Thoracic Disease Predictions from Chest X-ray Images**
 ---
 
+
+![Workflow](https://github.com/harishmuh/AI-biomedical-research-and-disease-prediction/blob/main/Data/Multi-label%20Thoracic%20Diseases/Overall%20workflow.png?raw=true)
+
 **Table 1. Summary of the Dataset Used in This Study**
 
 | Attribute | Description |
