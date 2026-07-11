@@ -2,7 +2,7 @@
 Analytics and predictive modeling application on the health and biomedical data 
 
 
-### 🩺 Machine learning for disease prediction
+### 🩺 Machine learning and deep learning for disease prediction
 - 💊 **[Early Risk Diabetes Prediction](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app)**
   * Developed a model to predict prediabetes risks.
 - ❤️ **[Heart Disease Prediction](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App)**
@@ -11,6 +11,8 @@ Analytics and predictive modeling application on the health and biomedical data
   * Used gene expression (microarray) data to classify two types of Acute leukemia (AML vs ALL).
 - 🧬 **[COVID19 positivity prediction](https://github.com/harishmuh/COVID19_Prediction/tree/main)**
   * Modeled patient test results to predict COVID-19 positivity.
+- 🩺 **[Explainable AI project for Chest X-ray imaging](https://github.com/harishmuh/Explaining-AI-decision-in-chest-X-rays-using-Grad-CAM/tree/main)**
+  -  Explainability Analysis of Multi-label Thoracic Disease Predictions from Chest X-ray Images Using Pretrained DenseNet21 Model and Grad-CAM
 
 ### 📈 Healthcare analytics
 
